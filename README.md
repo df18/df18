@@ -2,7 +2,7 @@
 
 <h2>IT Projects</h2>
 
-- <b>Active Directory Home Lab</b>
+- <b>[Active Directory Home Lab](https://github.com/df18/ActiveDirectoryLab)</b>
   - [Domain Controller Setup]()
 
 <h2>Certifications</h2>
