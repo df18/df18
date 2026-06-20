@@ -2,8 +2,8 @@
 
 <h2>IT Projects</h2>
 
-- <b>[Active Directory Projects](https://github.com/df18/ActiveDirectoryLab)</b>
-  - [Domain Controller Setup]()
+- <b>[Active Directory Projects:](https://github.com/df18/ActiveDirectoryLab)</b>
+  - [Group Policy Management](https://github.com/df18/ActiveDirectoryLab/tree/main/Group%20Policy%20Management%20)
 
 <h2>Certifications</h2>
 
