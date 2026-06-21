@@ -1,14 +1,14 @@
-<h1>Hi, I'm Dean!</h1>
+# Hi, I'm Dean!
 
-<h2>IT Projects</h2>
+## IT Projects
 
-- <b>[Active Directory Projects:](https://github.com/df18/ActiveDirectoryLab)</b>
+- [Active Directory](https://github.com/df18/ActiveDirectoryLab)
   - [Group Policy Management](https://github.com/df18/ActiveDirectoryLab/tree/main/Group%20Policy%20Management%20)
+ 
+- [Cisco Packet Tracer](https://github.com/df18/PacketTracerLab)
+  - [Small Office Network](https://github.com/df18/PacketTracerLab/tree/main/Small%20Office%20Network)
 
-<h2>Certifications</h2>
-
-
-<h2>Connect with me:</h2>
+## Connect with me:
 
 [<img align="left" alt="DeanFrancisVargas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
