@@ -7,6 +7,7 @@
  
 - [Cisco Packet Tracer](https://github.com/df18/PacketTracerLab)
   - [Small Office Network](https://github.com/df18/PacketTracerLab/tree/main/Small%20Office%20Network)
+  - [Hospital Multi-Site Network](https://github.com/df18/PacketTracerLab/tree/main/Hospital%20Multi-Site%20Network)
 
 ## Connect with me:
 
