@@ -3,7 +3,8 @@
 ## IT Projects
 
 - [Active Directory](https://github.com/df18/ActiveDirectoryLab)
-  - [Group Policy Management](https://github.com/df18/ActiveDirectoryLab/tree/main/Group%20Policy%20Management%20)
+  - [Group Policy Security Configuration](https://github.com/df18/ActiveDirectoryLab/tree/main/Group%20Policy%20Management%20)
+  - [OU Design, User Provisioning & Access Control](https://github.com/df18/ActiveDirectoryLab/tree/main/OU%20Design%2C%20User%20Provisioning%20%26%20Access%20Control)
  
 - [Cisco Packet Tracer](https://github.com/df18/PacketTracerLab)
   - [Small Office Network](https://github.com/df18/PacketTracerLab/tree/main/Small%20Office%20Network)
